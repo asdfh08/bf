@@ -2,4 +2,4 @@
 ## Проект
 Этот репозиторий является каркасом для будущего веб-приложения.
 ## Ссылки
-- [Публичная страница на GitHub Pages](https://asdfh08.github.io/bf/)
+- [Публичная страница на GitHub Pages](https://asdfh08.github.io/bf/src/index.html)
